@@ -1,0 +1,13 @@
+#footer-class {
+    text-align: center;
+}
+#searArea {
+    text-align: center;
+}
+
+.global-center-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
